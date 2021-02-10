@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1590848041 source:c:\users\pc\desktop\c_project\covid_19\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	<dos.h>
+	<string.h>
+	<stdbool.h>
+	"fct1.h"
+
+1590848084 c:\users\pc\desktop\c_project\covid_19\fct1.h
+
+1590848041 source:c:\users\pc\desktop\covid_19\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	<dos.h>
+	<string.h>
+	<stdbool.h>
+	"fct1.h"
+
+1590848084 c:\users\pc\desktop\covid_19\fct1.h
+
+1591091836 source:c:\users\pc\desktop\final_c_project\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	<dos.h>
+	<string.h>
+	<stdbool.h>
+	"fct1.h"
+
+1591568250 c:\users\pc\desktop\final_c_project\fct1.h
+	<string.h>
+
+1591091836 source:c:\users\pc\desktop\projects\final_c_project\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	<dos.h>
+	<string.h>
+	<stdbool.h>
+	"fct1.h"
+
+1591568250 c:\users\pc\desktop\projects\final_c_project\fct1.h
+	<string.h>
+
+1592304225 source:c:\users\pc\desktop\projects\projet_c(vf)\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	<dos.h>
+	<string.h>
+	<stdbool.h>
+	"fct1.h"
+
+1592948857 c:\users\pc\desktop\projects\projet_c(vf)\fct1.h
+	<string.h>
+
